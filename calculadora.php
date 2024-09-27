@@ -13,6 +13,7 @@
     </style>
 </head>
 <body>
+    <h1>UNIVERSIDAD TECNOLOGICA DE COAHUILA :D</h1>
     <h1>Calculadora en PHP</h1>
     <form method="post">
         <input type="number" name="num1" placeholder="Número 1" required>
