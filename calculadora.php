@@ -19,7 +19,7 @@
         <input type="number" name="num2" placeholder="Número 2" required>
         
         <select name="operation">
-            <option value="sum">Sumar</option>
+            <option value="sum">sumar</option>
             <option value="sub">Restar</option>
             <option value="mul">Multiplicar</option>
             <option value="div">Dividir</option>
