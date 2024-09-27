@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora</title>
+    <style>
+        body {
+            background-color: red;
+            color: white; /* Cambiar el texto a blanco para mayor legibilidad */
+            font-family: Arial, sans-serif;
+        }
+    </style>
 </head>
 <body>
     <h1>Calculadora en PHP</h1>
