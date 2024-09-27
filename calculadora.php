@@ -7,7 +7,7 @@
     <style>
         body {
             background-color: blue;
-            color: white; /* Cambiar el texto a blanco para mayor legibilidad */
+            color: purple; /* Cambiar el texto a blanco para mayor legibilidad */
             font-family: Arial, sans-serif;
         }
     </style>
