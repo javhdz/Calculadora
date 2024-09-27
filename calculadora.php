@@ -6,7 +6,7 @@
     <title>Calculadora</title>
     <style>
         body {
-            background-color: red;
+            background-color: blue;
             color: white; /* Cambiar el texto a blanco para mayor legibilidad */
             font-family: Arial, sans-serif;
         }
