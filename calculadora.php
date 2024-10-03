@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Calculadora en PHP</h1>
+    <h1>Calculadora</h1>
     <form method="post">
         <input type="number" name="num1" placeholder="Número 1" required>
         <input type="number" name="num2" placeholder="Número 2" required>
